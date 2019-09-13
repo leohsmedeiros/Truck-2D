@@ -1,3 +1,3 @@
 # Truck-2D
 
-This repository is a puzzle game which the player has to construct the platforms to solve the puzzle
+This game is just for a study porposal of constructing platforms by drawing lines
